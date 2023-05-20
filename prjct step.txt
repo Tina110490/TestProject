@@ -1,0 +1,27 @@
+npm install -g npm@latest
+ng -v
+ng -version
+node -v
+tsc -v
+tsc -v
+npm install save-dev typescript@4.5.5
+npm install --save --legacy-peer-deps
+ng v
+npm install -g @angular/cli@13.2.6  --save
+15:36
+npm install save-dev typescript@4.5.5
+npm install -g typescript
+npm install save-dev typescript@4.5.5
+npm start SPPApplication
+
+
+
+Where @angular/animations is package name and ~8.0.0 is package version. You may notice that package versions description vary. The symbol in front of version says to npm install which package version to use
+1.0.0 means strictly 1.0.0 version of the package
+~8.0.0 means, 8.0.0 version or it's later patch version (third number may vary): 8.0, 8.0.x
+^1.9.0 means, 1.9.0 version or it's later minor version (second number may vary): 1, 1.x
+
+
+https://www.geeksforgeeks.org/difference-between-dependencies-devdependencies-and-peerdependencies/
+
+
